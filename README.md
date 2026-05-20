@@ -151,6 +151,19 @@ Examples:
 * auto_save
 * require_non_empty
 
+-------
+
+## Project Diagrams
+
+### Architecture Diagram
+![Architecture](docs/architecture.jpg)
+
+### UML Diagram
+![UML](docs/uml.jpg)
+
+### Flowchart
+![Flowchart](docs/flowchart.jpg)
+
 ---
 
 ## Installation
